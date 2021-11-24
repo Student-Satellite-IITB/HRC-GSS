@@ -1,0 +1,2 @@
+void SSTVInit();
+void SSTVBegin();
